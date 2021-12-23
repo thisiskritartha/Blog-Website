@@ -1,2 +1,2 @@
 # Blog-Website
-BlogWeb using Express js, Mongoose, and Ejs.
+BlogWeb using Express js, Mongoose and Ejs.
